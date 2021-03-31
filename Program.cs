@@ -10,6 +10,7 @@ namespace ConsoleApp1
             // Зміни в ALFA гілці
             Console.WriteLine("Hello \n World!");
             // Зміни 2 в ALFA гілці
+            // Змінено з браузера
         }
     }
 }
