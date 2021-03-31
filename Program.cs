@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! from IDE");
             // Зміни в ALFA гілці
             Console.WriteLine("Hello \n World!");
             // Зміни 2 в ALFA гілці
