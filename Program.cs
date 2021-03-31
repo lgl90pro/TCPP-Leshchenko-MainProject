@@ -8,6 +8,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             // Зміни в ALFA гілці
+            Console.WriteLine("Hello \n World!");
+            // Зміни 2 в ALFA гілці
         }
     }
 }
